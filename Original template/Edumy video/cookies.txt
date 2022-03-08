@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.createdbycocoon.com	TRUE	/moodle/edumy/2/	FALSE	1999999999	MoodleSession	mrtq7kg519q4g72esgf7d06ulh
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	SPSI	9e2dc76a9476f930877dd2c74bcbc3da
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	SPSE	pw/PK2eXgPXpmdVVIKpWsInED9hL2hzPVSzJ+mPlNzFuHcmobPZ6lUBBYQ8AOgPAwN5gETl70Xwat70UVvlXww==
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	adOtr	obsvl
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	spcsrf	361276f94a5548328723cbb55fcbcfaa
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	UTGv2	D-h478947937732c25f046f48db5e245e31b24
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	sp_lit	AkSP5HRdypGZzxhnGhP6zw==
+demo.createdbycocoon.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+
